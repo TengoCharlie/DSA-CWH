@@ -1,0 +1,6 @@
+1.	Insertion
+a.	Index Insertion
+i.	With maintaining the indexes
+ii.	Without maintaining the index
+b.	Sorted insertion
+c.	Insert any where
