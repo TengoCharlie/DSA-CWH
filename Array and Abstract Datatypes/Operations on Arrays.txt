@@ -1,6 +1,0 @@
-Operations on Arrays.
-
-* Traversal - > is to visit every element of the array.
-* Insertion -> to insert value at any location in the array
-* Deletion
-* Search n sorting
