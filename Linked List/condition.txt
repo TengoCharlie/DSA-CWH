@@ -1,0 +1,5 @@
+when the value is first 
+when the value is last 
+when the value is in between somewhere
+when there is no Value
+
